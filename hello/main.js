@@ -1,1 +1,2 @@
-console.log("hello")  // => hello
+const sys = require('sys');
+sys.puts('hello');  // => hello
